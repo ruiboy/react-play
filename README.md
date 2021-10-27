@@ -1,3 +1,11 @@
+# Playing with React
+
+`index.js` has a bunch of sample code of a traditional react nature (pre-hooks);
+the code is commented out in chunks.
+By default it imports App.js which in turn runders the hooksSandbox but uncomment
+other bits to have a play.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
